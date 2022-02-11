@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-docker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "puppeteer": "^13.3.1"
+  }
+}
